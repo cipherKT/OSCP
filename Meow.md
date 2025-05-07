@@ -22,5 +22,24 @@ terminal
 ```
 
 3. What service do we use to form our VPN connection into HTB labs? 
-4. What tool do we use to test our connection to the target with an ICMP echo request? 
-5.  What is the name of the most common tool for finding open ports on a target? 
+```
+Openvpn
+```
+3. What tool do we use to test our connection to the target with an ICMP echo request? 
+```
+ping
+```
+3. What is the name of the most common tool for finding open ports on a target? 
+```
+nmap
+```
+3. What service do we identify on port 23/tcp during our scans?
+```
+telnet
+```
+3. What username is able to login into target over telnet with a blank password?
+```
+```
+3. Submit root flag
+```
+```
