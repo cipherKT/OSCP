@@ -1,0 +1,13 @@
+{
+  "theme": "obsidian",
+  "accentColor": "#41e64c",
+  "cssTheme": "Obsidianite",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font Propo",
+  "textFontFamily": "JetBrainsMono Nerd Font Propo",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Propo",
+  "nativeMenus": true,
+  "enabledCssSnippets": [
+    "Colored Sidebar Items",
+    "big_math"
+  ]
+}
