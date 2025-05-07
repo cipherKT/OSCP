@@ -25,4 +25,6 @@ date - 2025-05-07
 - Stand-alone machines 
 	- points will be awarded for partial and complete administrative control of machine
 - Machines might have some `set of objectives` that must be completed
+- Must score `70/100` to `pass`
+## Exam Requirements 
 - 
