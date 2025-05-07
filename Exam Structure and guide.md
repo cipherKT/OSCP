@@ -81,4 +81,14 @@ date - 2025-05-07
 ## Exam Information
 - **Exam Connection**
 	- Will get `openvpn` file in mail received for exam
-	- Enter the username and password provided in email to establish a successful vpn conne
+	- Enter the username and password provided in email to establish a successful `vpn` connection
+- **Exam control panel**
+	- In this panel you can 
+		- submit proof files
+		- revert target machines
+		- view specific target objective and point values
+- **Machine reverts**
+	- limit of 24 machine reverts
+	- Please wait patiently for the machine to revert and only click the button once per attempt
+- **Exam proof file names**
+	- proof.txt -> This file is only accessible to the root or Administrator user can be found in `/root` or 
