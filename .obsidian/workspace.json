@@ -11,10 +11,14 @@
             "id": "740ee343eb9b1e76",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Meow.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Meow"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8bada11cb77564bc",
@@ -181,6 +184,7 @@
   },
   "active": "740ee343eb9b1e76",
   "lastOpenFiles": [
+    "Meow.md",
     "Practice rooms.md",
     "Exam Structure and guide.md",
     "02 attachments/proof-text.png",
