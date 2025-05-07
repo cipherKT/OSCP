@@ -91,4 +91,6 @@ date - 2025-05-07
 	- limit of 24 machine reverts
 	- Please wait patiently for the machine to revert and only click the button once per attempt
 - **Exam proof file names**
-	- proof.txt -> This file is only accessible to the root or Administrator user can be found in `/root` or 
+	- proof.txt -> This file is only accessible to the root or Administrator user can be found in `/root` or the `Administrator Desktop`
+	- local.txt -> accessible to un-privileged user
+	- 
