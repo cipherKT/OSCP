@@ -44,4 +44,12 @@ date - 2025-05-07
 	- submit the proof in control panel and **add the Screen Shot** of same in documentation, these can be the file names
 		- local.txt
 		- proof.txt
-	- 
+	- How to provide Screen shot?
+		- Go to the `exact location` of the flag in `remote shell`
+		- use `cat` or `type` to show the content of the file in `remote shell`
+	- On windows you must have shell running with the permission of one of the following to receive full points
+		- `System user`
+		- `Administrator user`
+		- `User with Administrator privilage`
+	- for Linux for full marks
+		- `root shell`

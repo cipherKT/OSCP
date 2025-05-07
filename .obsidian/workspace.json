@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Exam Structure and guide"
             }
+          },
+          {
+            "id": "e1de5194d5a68a1a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,8 +183,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -183,13 +194,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2ed98e22c97906b5",
+  "active": "e1de5194d5a68a1a",
   "lastOpenFiles": [
+    "Exam Structure and guide.md",
     "01 Templates/Theory Template.md",
     "01 Templates/Room template.md",
     "01 Templates/Afternotes template.md",
     "01 Templates/Notes template.md",
-    "Exam Structure and guide.md",
     "03 Excalidraw",
     "02 attachments",
     "01 Templates",
