@@ -74,4 +74,9 @@ date - 2025-05-07
 	- You can use following considering `meterpreter` will be used only once 
 		- multi handler (aka `exploit/multi/handler`)
 		- `msfvenom`
-	- 
+	- All of these applies to different interfaces using Metasploit as service 
+		- Armitage
+		- Cobalt Strike
+		- Metasploit Community Edition
+## Exam Information
+- 
