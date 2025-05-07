@@ -54,4 +54,12 @@ date - 2025-05-07
 	- for Linux for full marks
 		- `root shell`
 - **Control Panel submissions** 
-	- contents of `local.txt` and `proo`
+	- contents of `local.txt` and `proof.txt` are required to be submitted in control panel of the exam before submitting the exam
+- **Screenshot requirements**
+	- Each `local.txt` and `proof.txt` screen shot must contain IP of the target machine using `ipconfig`, `ifconfig` or `ipaddr`
+	- ![[proof-text.png]]
+- **Exam Restrictions**
+	- spoofing
+	- commercial tools or services (Metasploit pro, Burp pro, etc.)
+	- Automatic exploitation tools (==db_autopwn, `browser_autopwn`, `SQLmap`, `SQLninja`, etc. )
+	- Mass vulnerability scanners ()
