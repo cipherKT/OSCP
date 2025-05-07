@@ -30,4 +30,18 @@ date - 2025-05-07
 - **Document Requirements**
 	- Write professional report 
 	- Document all of your attacks including all `steps`, ``commands issued``, and `console output` in the form of penetration test report.
+	- document should be thorough enough for a reader to follow steps and replicate the same
+- **Exploit code**
+	- Only modified exploit code needs to added as snippet otherwise give the URL of that code 
+	- If the code is modified then include 
+		- modified code
+		- URL of original code
+		- command used to generate shell code(if any)
+		- Highlighted changes you have made
+		- An explanation of why the changes were made
+- **Exam proof**
+	- provide proof of exploitation for each machine
+	- submit the proof in control panel and **add the Screen Shot** of same in documentation, these can be the file names
+		- local.txt
+		- proof.txt
 	- 
