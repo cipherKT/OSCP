@@ -79,4 +79,6 @@ date - 2025-05-07
 		- Cobalt Strike
 		- Metasploit Community Edition
 ## Exam Information
-- 
+- **Exam Connection**
+	- Will get `openvpn` file in mail received for exam
+	- Enter the username and password provided in email to establish a successful vpn conne
