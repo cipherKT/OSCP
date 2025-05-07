@@ -99,5 +99,12 @@ date - 2025-05-07
 	- Using Meterpreter payload on multiple machines
 	- Failure to provide local.txt and proof.txt file contents in both control panel and in screen shot of shell
 	- Lack of documentation
-- **Suggested Documentation**
-	- 
+## Submission Instruction
+- Exam report in PDF format
+- Naming convention: "OS-XXXXX" is your OSID
+```
+OSCP-OS-XXXXX-Exam-Report.pdf
+```
+- PDF archived in `.7z` file (should *not* be password protected)
+- Archive not more than 200 MBs
+- filename should be case sensitive 
