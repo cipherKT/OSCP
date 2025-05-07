@@ -108,3 +108,16 @@ OSCP-OS-XXXXX-Exam-Report.pdf
 - PDF archived in `.7z` file (should *not* be password protected)
 - Archive not more than 200 MBs
 - filename should be case sensitive 
+## Tools that are allowed (not limited to these only)
+- BloodHound (Legacy and Community Edition only)
+- SharpHound
+- PowerShell Empire
+- Covenant 
+- Powerview
+- Rubeus
+- evil-winrm
+- Responder (Poisoning and Spoofing is not allowed in the challenges or on the exam)
+- Crackmapexec
+- Mimikatz
+- Impacket
+- PrintSpoofer
