@@ -61,5 +61,9 @@ date - 2025-05-07
 - **Exam Restrictions**
 	- spoofing
 	- commercial tools or services (Metasploit pro, Burp pro, etc.)
-	- Automatic exploitation tools (==db_autopwn, `browser_autopwn`, `SQLmap`, `SQLninja`, etc. )
-	- Mass vulnerability scanners ()
+	- Automatic exploitation tools (`db_autopwn`, `browser_autopwn`, `SQLmap`, `SQLninja`, etc. )
+	- Mass vulnerability scanners (Nessus, `NeXpose`,` OpenVas`, Canvas, Core Impact, SAINT, etc. )
+	- AI chatbots (`OffSec KAI`, `ChatGpt`,`YouChat`, etc. )
+	- Can search on Discord but not allowed to take help from others
+	- Delete all the downloaded files from your local system that were used to compromise the machine 
+- 
