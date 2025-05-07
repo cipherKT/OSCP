@@ -94,4 +94,10 @@ date - 2025-05-07
 	- proof.txt -> This file is only accessible to the root or Administrator user can be found in `/root` or the `Administrator Desktop`
 	- local.txt -> accessible to un-privileged user
 - **Point Disqualification**
+	- Using restricted tools
+	- Using Metasploit Auxiliary, Exploit or Post modules on multiple machines
+	- Using Meterpreter payload on multiple machines
+	- Failure to provide local.txt and proof.txt file contents in both control panel and in screen shot of shell
+	- Lack of documentation
+- **Suggested Documentation**
 	- 
