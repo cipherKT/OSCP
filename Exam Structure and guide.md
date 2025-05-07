@@ -66,4 +66,12 @@ date - 2025-05-07
 	- AI chatbots (`OffSec KAI`, `ChatGpt`,`YouChat`, etc. )
 	- Can search on Discord but not allowed to take help from others
 	- Delete all the downloaded files from your local system that were used to compromise the machine 
-- 
+- **Metasploit Restrictions**
+	- Use of Metasploit and Meterpreter payload is prohibited 
+	- May use Metasploit modules(*Auxiliary*, *Exploit*, *Post*) or Meterpreter payload only once for any single machine of your choice 
+	- This machine needs to be chosen and not allowed to switch after finalizing it
+	- Metasploit can be used for pivoting
+	- You can use following considering `meterpreter` will be used only once 
+		- multi handler (aka `exploit/multi/handler`)
+		- `msfvenom`
+	- 
