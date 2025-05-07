@@ -29,4 +29,5 @@ date - 2025-05-07
 ## Exam Requirements 
 - **Document Requirements**
 	- Write professional report 
-	- Document all of your attacks including all steps, commands issued, and console output in the form of penetration test report. 
+	- Document all of your attacks including all `steps`, ``commands issued``, and `console output` in the form of penetration test report.
+	- 
