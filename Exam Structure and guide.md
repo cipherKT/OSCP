@@ -27,4 +27,5 @@ date - 2025-05-07
 - Machines might have some `set of objectives` that must be completed
 - Must score `70/100` to `pass`
 ## Exam Requirements 
-- 
+- **Document Requirements**
+	- 
